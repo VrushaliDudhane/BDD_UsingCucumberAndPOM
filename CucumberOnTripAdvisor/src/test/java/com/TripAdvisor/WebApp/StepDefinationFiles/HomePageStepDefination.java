@@ -30,7 +30,7 @@ public class HomePageStepDefination {
 	public void he_gets_the_home_page_title_as(String pageTitle) {
 	  String actualTitle=objHomePage.getPageTitle();
 	  Assert.assertEquals(actualTitle, pageTitle);
-	  logger.info("Agoda HomePage opened");	
+	  logger.info("TripAdvisor Home Page opened");	
 	  //Assert.assertTrue(false);
 	}
 	

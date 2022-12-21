@@ -3,6 +3,8 @@ package com.TripAdvisor.WebApp.Base;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
+import org.openqa.selenium.NoSuchElementException;
+import org.openqa.selenium.TimeoutException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
@@ -32,25 +34,26 @@ public class BasePage extends Page {
 	}
 
 	@Override
-	public WebElement getElement(By locator) {
+	public WebElement getElement(By locator)throws NoSuchElementException{
 		WebElement element=null;
 		try
 		{
-		return driver.findElement(locator);
-		}catch (Exception e)
+		return driver.findElement(locator) ;
+		}catch (NoSuchElementException e)
 		{
 			logger.error(locator+"  Element could Not Be found on DOM");
 			e.printStackTrace();
+			throw e;
 		}
-		return element;
+	
 	}
 
 	@Override
-	public void waitForElementToBePresent(By locator) {
+	public void waitForElementToBePresent(By locator)throws TimeoutException {
 		try
 		{
 			wait.until(ExpectedConditions.presenceOfElementLocated(locator));
-		}catch (Exception e)
+		}catch (TimeoutException e)
 		{
 			logger.error(locator+"  Element could Not Be found on DOM Within given wait time");
 			e.printStackTrace();
