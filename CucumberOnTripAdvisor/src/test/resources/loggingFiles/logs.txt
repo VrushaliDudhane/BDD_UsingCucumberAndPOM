@@ -1,0 +1,52 @@
+INFO	2022-12-19 12:39:31,725	0	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda HomePage opened
+INFO	2022-12-19 12:39:35,981	4256	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda logo has been displayed
+ERROR	2022-12-19 12:40:20,762	49037	com.TripAdvisor.WebApp.Base.BasePage	[main]	By.cssSelector: a[class='rmyCe _G B- z _S c Wc wSSLS w jWkoZ sOtnj']  Element Is not clickable
+ERROR	2022-12-19 12:40:43,338	71613	com.TripAdvisor.WebApp.Base.BasePage	[main]	By.cssSelector: a[class='rmyCe _G B- z _S c Wc wSSLS w jWkoZ sOtnj']  Element could Not Be found on DOM
+ERROR	2022-12-19 12:40:48,290	76565	com.TripAdvisor.WebApp.Base.BasePage	[main]	By.cssSelector: iframe[class='bFOrV _R B- o']  Element could Not Be found on DOM
+INFO	2022-12-19 12:42:51,521	0	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda HomePage opened
+INFO	2022-12-19 12:42:55,401	3880	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda logo has been displayed
+INFO	2022-12-19 12:42:59,178	7657	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Sign In Link Is displayed and Clickable
+INFO	2022-12-19 12:52:02,600	0	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda HomePage opened
+INFO	2022-12-19 12:53:06,228	0	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda HomePage opened
+INFO	2022-12-19 12:53:10,476	4248	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Sign In Link Is displayed and Clickable
+INFO	2022-12-19 12:54:08,262	0	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda HomePage opened
+INFO	2022-12-19 12:54:13,029	4767	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Sign In Link Is displayed and Clickable
+INFO	2022-12-20 19:44:59,125	0	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda HomePage opened
+INFO	2022-12-20 19:45:03,424	4299	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda logo has been displayed
+INFO	2022-12-20 19:45:07,435	8310	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Sign In Link Is displayed and Clickable
+INFO	2022-12-20 19:45:13,700	14575	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Continue with email displayed
+INFO	2022-12-21 09:47:28,739	0	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda HomePage opened
+INFO	2022-12-21 09:47:32,473	3734	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda logo has been displayed
+INFO	2022-12-21 09:47:36,809	8070	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Sign In Link Is displayed and Clickable
+INFO	2022-12-21 09:51:37,403	0	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda HomePage opened
+INFO	2022-12-21 09:51:41,330	3927	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda logo has been displayed
+INFO	2022-12-21 09:51:45,674	8271	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Sign In Link Is displayed and Clickable
+INFO	2022-12-21 09:51:51,573	14170	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Continue with email displayed
+INFO	2022-12-21 09:57:39,473	0	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda HomePage opened
+INFO	2022-12-21 09:57:43,302	3829	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda logo has been displayed
+INFO	2022-12-21 09:57:47,561	8088	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Sign In Link Is displayed and Clickable
+INFO	2022-12-21 09:57:53,631	14158	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Continue with email displayed
+INFO	2022-12-21 09:59:28,005	0	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda HomePage opened
+INFO	2022-12-21 09:59:32,316	4311	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda logo has been displayed
+INFO	2022-12-21 09:59:36,351	8346	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Sign In Link Is displayed and Clickable
+INFO	2022-12-21 09:59:42,765	14760	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Continue with email displayed
+INFO	2022-12-21 10:01:41,813	0	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda HomePage opened
+INFO	2022-12-21 10:01:45,731	3918	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda logo has been displayed
+INFO	2022-12-21 10:01:50,180	8367	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Sign In Link Is displayed and Clickable
+INFO	2022-12-21 10:01:56,361	14548	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Continue with email displayed
+INFO	2022-12-21 10:03:09,436	0	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda HomePage opened
+INFO	2022-12-21 10:03:13,681	4245	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda logo has been displayed
+INFO	2022-12-21 10:03:17,656	8220	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Sign In Link Is displayed and Clickable
+INFO	2022-12-21 10:03:24,716	15280	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Continue with email displayed
+INFO	2022-12-21 10:05:00,007	0	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda HomePage opened
+INFO	2022-12-21 10:05:04,203	4196	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda logo has been displayed
+INFO	2022-12-21 10:05:08,580	8573	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Sign In Link Is displayed and Clickable
+INFO	2022-12-21 10:05:15,008	15001	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Continue with email displayed
+INFO	2022-12-21 10:08:26,502	0	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda HomePage opened
+INFO	2022-12-21 10:08:31,362	4860	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda logo has been displayed
+INFO	2022-12-21 10:08:35,589	9087	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Sign In Link Is displayed and Clickable
+INFO	2022-12-21 10:08:41,442	14940	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Continue with email displayed
+INFO	2022-12-21 10:13:37,504	0	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda HomePage opened
+INFO	2022-12-21 10:13:42,684	5180	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Agoda logo has been displayed
+INFO	2022-12-21 10:13:46,950	9446	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Sign In Link Is displayed and Clickable
+INFO	2022-12-21 10:13:53,668	16164	com.TripAdvisor.WebApp.StepDefinationFiles.HomePageStepDefination	[main]	Continue with email displayed
